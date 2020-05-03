@@ -1,0 +1,6 @@
+vhdl work "register_file_package.vhd"
+vhdl work "../register/register.vhd"
+vhdl work "../mux/mux.vhd"
+vhdl work "../decoder/decoder.vhd"
+vhdl work "register_file.vhd"
+vhdl work "yaraaaab.vhd"
