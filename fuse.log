@@ -1,0 +1,31 @@
+Running: C:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/Semester 4/Architecture/My Project/RegisterFile/TB1_isim_beh.exe -prj E:/Semester 4/Architecture/My Project/RegisterFile/TB1_beh.prj work.TB1 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/register_file_package.vhd" into library work
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/../register/register.vhd" into library work
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/../mux/mux.vhd" into library work
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/../Decoder/Decoder.vhd" into library work
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/register_file.vhd" into library work
+Parsing VHDL file "E:/Semester 4/Architecture/My Project/RegisterFile/TB1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package std_logic_unsigned
+Compiling package register_file_package
+Compiling package numeric_std
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity reg [reg_default]
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavior of entity tb1
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 16 VHDL Units
+Built simulation executable E:/Semester 4/Architecture/My Project/RegisterFile/TB1_isim_beh.exe
+Fuse Memory Usage: 37464 KB
+Fuse CPU Usage: 483 ms

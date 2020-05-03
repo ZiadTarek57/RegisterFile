@@ -1,0 +1,5 @@
+work	"../Architecture/My Project/Decoder/Decoder.vhd"
+work	"../mux/mux.vhd"
+work	"../register/register.vhd"
+work	"register_file.vhd"
+work	"register_file_package.vhd"

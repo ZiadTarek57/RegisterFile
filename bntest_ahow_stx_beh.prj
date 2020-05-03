@@ -1,0 +1,6 @@
+vhdl isim_temp "register_file_package.vhd"
+vhdl isim_temp "../register/register.vhd"
+vhdl isim_temp "../mux/mux.vhd"
+vhdl isim_temp "../decoder/decoder.vhd"
+vhdl isim_temp "register_file.vhd"
+vhdl isim_temp "bntest_ahow.vhd"

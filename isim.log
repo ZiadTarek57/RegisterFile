@@ -1,0 +1,15 @@
+ISim log file
+Running: E:\Semester 4\Architecture\My Project\RegisterFile\TB1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Semester 4/Architecture/My Project/RegisterFile/TB1_isim_beh.wdb 
+ISim P.58f (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 49997 ps: Note: Test1 (/tb1/).
+at 49997 ps: Note: Test2 (/tb1/).
+at 79997 ps: Note: Test3 (/tb1/).
+at 79997 ps: Note: Test4 (/tb1/).
+at 79997 ps: Note: Test Complete (/tb1/).
